@@ -8,8 +8,7 @@
 			<class name="com.test.SeleniumGoogleSearchTest"/>
 		</classes>
 	</test>
-	-->
-	
+	-->	
 	<test name="Grid IE Test">
 		<parameter name="browser" value="IE"/>
 		<classes>
